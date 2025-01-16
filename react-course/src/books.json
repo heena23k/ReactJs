@@ -1,0 +1,24 @@
+[
+  {
+    "image":
+      "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Books/TYIB2024/TYIB_2024_PC_66.jpg",
+    "title": "The Kid Who Came From Space",
+    "publisher": " Ross Welford",
+    "price": "100"
+  },
+  {
+    "image":
+      "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Books/TYIB2024/ChildrenPC1_17.jpg",
+   " title": "My First Mythology Tale",
+    "publisher": " Maple Press",
+   " price": "150"
+  },
+  {
+    "image":
+      "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Books/TYIB2024/ChildrenPC1_16.jpg",
+    "title": "My First Library",
+    "'publisher'": " Wonder House Books",
+    "price": "50"
+
+  }
+]
